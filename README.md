@@ -18,9 +18,6 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine.
 2. Run CardGame.java 
 
-### Usage
-[Provide instructions on how to use the game, including any command-line arguments or input methods.]
-
 ### Contributors
 - [Ziyad Alnawfal]
 - [Robert Bulcock]
